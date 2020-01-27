@@ -1,0 +1,12 @@
+{
+  "browserify": {
+    "dist/browserified.js": "index.js"
+  },
+  "dependencies": {
+    "js": [
+      "allex:app:lib",
+      "node_modules/angular/angular.min.js",
+      "node_modules/ng-file-upload/dist/ng-file-upload.js"
+    ]
+  }
+}

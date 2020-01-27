@@ -1,0 +1,26 @@
+{
+  "name": "allex_angular1uploadwebcomponent",
+  "version": "1.0.0",
+  "description": "AllexJS web component for uploads based on Angular1",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-web-components/angular1upload.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "web",
+    "component",
+    "upload",
+    "angular"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-web-components/angular1upload/issues"
+  },
+  "homepage": "https://github.com/allex-web-components/angular1upload#readme"
+}
